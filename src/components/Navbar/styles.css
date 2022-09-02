@@ -1,0 +1,20 @@
+.navbar-container {
+    padding: 5px;
+    position: static;
+    display: flex;
+    gap: 5px;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: aquamarine;
+}
+
+.navbar-links {
+    width: 80%;
+    display: flex;
+}
+
+.navbar-buttons {
+    width: 20%;
+    display: flex;
+}

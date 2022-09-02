@@ -1,0 +1,15 @@
+.navbar-link {
+    width: -webkit-fill-available;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 40px;
+    border-right: 1px solid black;
+    transition-duration: 0.3s;
+}
+
+.navbar-link:hover {
+    background-color: rgb(100, 195, 163);
+}
